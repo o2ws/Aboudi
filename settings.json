@@ -1,0 +1,10 @@
+{
+    "maintenance": true,
+    "maintenance_message": "التطبيق تحت الصيانة حاليًا، يرجى المحاولة لاحقًا",
+    "update": {
+        "version": "1.0",
+        "force_update": false,
+        "update_url": "https://t.me/MOSUL_UrUK",
+        "update_message": "STAR SPORTS"
+    }
+}
