@@ -1,1 +1,7 @@
-[]
+{
+    "B1": {
+        "host": "http://servx.pro:80",
+        "username": "hend0815",
+        "password": "08152023"
+    }
+}
