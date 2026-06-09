@@ -6,5 +6,9 @@
     "host_6a287e451b5dc": {
         "host": "http://dana-tv.com:8080",
         "added_at": "2026-06-09 16:57:41"
+    },
+    "host_6a287e4c29fc2": {
+        "host": "http://dana8kone.com:8080",
+        "added_at": "2026-06-09 16:57:48"
     }
 }
