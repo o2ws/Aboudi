@@ -1,1 +1,7 @@
-[]
+{
+    "B1": {
+        "host": "http://foxbleu.org:8789",
+        "username": "ludovic",
+        "password": "8333"
+    }
+}
