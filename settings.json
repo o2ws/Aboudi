@@ -3,7 +3,7 @@
     "maintenance_message": "التطبيق تحت الصيانة حاليًا، يرجى المحاولة لاحقًا",
     "update": {
         "version": "1",
-        "force_update": true,
+        "force_update": false,
         "update_url": "https://t.me/stlaet1/",
         "update_message": "تحديث تطبيق العبودي"
     }
