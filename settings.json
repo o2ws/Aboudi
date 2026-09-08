@@ -1,5 +1,5 @@
 {
-    "maintenance": true,
+    "maintenance": false,
     "maintenance_message": "التطبيق تحت الصيانة حاليًا، يرجى المحاولة لاحقًا",
     "update": {
         "version": "1.0",
